@@ -1,4 +1,6 @@
 # countdown timer
+# Jerica Hanna
+
 import time
 
 def countdown(t):

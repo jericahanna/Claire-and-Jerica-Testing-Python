@@ -1,4 +1,6 @@
 # Python number guessing game
+# Jerica Hanna
+
 import random
 from multiprocessing.connection import answer_challenge
 
